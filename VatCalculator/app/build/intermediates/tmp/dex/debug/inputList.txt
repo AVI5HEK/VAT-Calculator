@@ -1,0 +1,3 @@
+C:\Users\Avishek\AndroidStudioProjects\VatCalculator\app\build\intermediates\classes\debug
+C:\Users\Avishek\AndroidStudioProjects\VatCalculator\app\build\intermediates\pre-dexed\debug\classes-6abf2d57a014398d68f41420b4770370440747dd.jar
+C:\Users\Avishek\AndroidStudioProjects\VatCalculator\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-aa923ffb42646605d50d53bd1051e7722310b125.jar
